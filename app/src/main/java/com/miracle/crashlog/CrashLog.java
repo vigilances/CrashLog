@@ -117,7 +117,7 @@ public class CrashLog implements Thread.UncaughtExceptionHandler {
                 field.setAccessible(true);
                 infos.put(field.getName(), field.get(null).toString());
             } catch (Exception e) {
-                Log.e(TAG, "an error occured when collect crash info", e);
+                Log.e(TAG, "an error occured when collect device info", e);
             }
         }
     }
