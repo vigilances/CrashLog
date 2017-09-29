@@ -74,6 +74,7 @@ public class CrashLog implements Thread.UncaughtExceptionHandler {
     }
 
     private boolean handleException(Throwable ex) {
+        ex.printStackTrace();
         if (ex == null)
             return false;
         try {
