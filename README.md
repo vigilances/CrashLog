@@ -34,7 +34,7 @@ Note: 示例是使用一个分母为0的除法,以一个点击事件来触发
         });
     }
 ```
-![](https://github.com/vigilances/CrashLog/tree/master/image/use.png)
+<img src="/master/image/use.png"/>
 
 弹出Toast,程序停止运行,捕获并写入相关信息
 ![](https://github.com/vigilances/CrashLog/tree/master/image/use1.png)
