@@ -22,7 +22,7 @@ You can construct it  as follow
 # 实际效果
 # Actual effect
 
-Note: 示例是使用一个分母为0的错误,以一个点击事件来触发
+Note: 示例是使用一个分母为0的除法,以一个点击事件来触发
 ```
    final int i = 0, j = 2;
         tv.setText("int i = 0, j = 2;" + "\nint result = j / i" + "\n\nClick !");
