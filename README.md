@@ -40,4 +40,5 @@ Note: 示例是使用一个分母为0的除法,以一个点击事件来触发
 ![](https://github.com/vigilances/CrashLog/tree/master/image/use1.png)
 
 日志中的详细信息，(前面是用2/0，所以异常信息对应的上)
-![](https://github.com/vigilances/CrashLog/tree/master/image/log.png)
+<img src="https://github.com/vigilances/CrashLog/tree/master/image/log.png" alt="" /></p>
+
